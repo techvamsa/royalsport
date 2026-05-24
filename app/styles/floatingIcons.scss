@@ -1,0 +1,86 @@
+.floating{
+    &__icons {
+        position: fixed;
+        right: 0;
+        top: 78%;
+        transform: translateY(-78%);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 0.5rem;
+        z-index: 11;
+    }
+
+    &__icon {
+        background: var(--secondary-color);
+        padding: 0.625rem;
+        font-size: 1.5rem;
+        line-height: 1;
+        color: var(--white-color);
+        border-radius: 0.625rem 0 0 0.625rem;
+        overflow: hidden;
+        transition: all 0.5s ease-in-out;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        min-width: 2.875rem;
+        min-height: 2.875rem;
+        justify-content: center;    
+
+        i {
+            color: var(--white-color);
+        }
+
+        &:hover {
+            background: var(--primary-color);
+        }
+
+        &.call {
+            img {
+                filter: brightness(0) invert(1);
+            }
+        }
+
+        &--light {
+            background: var(--white-color);
+            border: 0.0625rem solid var(--secondary-color);
+            border-right: 0;
+            display: flex;
+            flex-direction: column;
+            min-width: 4.5rem;
+
+            img {
+                width: 2rem;
+                transition: all 0.25s ease-in-out;
+            }
+
+            span {
+                color: var(--light-grey);
+                font-size: 0.875rem;
+                display: flex;
+                margin-top: 0.25rem;
+                font-family: var(--helvetica-bold-font);
+                transition: all 0.25s ease-in-out;
+            }
+
+            &:hover {
+                background: var(--secondary-color);
+
+                span {
+                    color: var(--white-color);
+                }
+
+                img {
+                    filter: brightness(0) invert(1);
+                }
+            }
+        }
+
+        &.whatsapp {
+            background: #67C15E;
+            img {
+                width: 1.625rem;
+            }
+        }
+    }
+}

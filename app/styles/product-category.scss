@@ -1,0 +1,179 @@
+.products {
+}
+
+.product {
+  // padding: 60px 0;
+  background: #fff;
+  width: 100%;
+  overflow: hidden; // Prevents overflow from the slider
+
+  .top-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+
+  .heading-wrapper {
+    text-align: left;
+    max-width: 100%; // Constrain the width of the text
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    align-items: flex-end;
+
+    .left {
+      width: 70%;
+    }
+
+    .btn-wrapper {
+      width: 30%;
+      display: flex;
+      justify-content: flex-end;
+    }
+    .title {
+      font-size: 1.6rem; // Increased font size for a bolder look
+      font-weight: 700;
+      color: #242424;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #555;
+      font-size: 14px; // Slightly larger for better readability
+      line-height: 1.6;
+      margin: 1rem 0 0;
+    }
+  }
+
+  .product-slider {
+    margin-top: 20px;
+    padding: 0 40px;
+
+    .slick-slide {
+      padding: 0 10px; // Spacing between slides
+    }
+
+    .product-item {
+      text-align: center;
+      padding: 8px;
+      border-radius: 8px;
+      transition: all 0.4s ease;
+      box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+      margin: 2px;
+    }
+
+    img {
+      width: 100%; // Make image fill its container
+      height: auto; // Maintain aspect ratio\
+      aspect-ratio: 1;
+      max-height: 24rem;
+      object-fit: cover; // Ensures the whole image is visible
+      border-radius: 8px;
+    }
+
+    .product-title {
+      margin-top: 15px;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--primary-color);
+      border: 1px solid gray;
+          border-radius: 5px;
+    }
+  }
+  
+
+  .items {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2.5rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .slick-arrow.custom-arrow {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #e53935; // Red border
+    border-radius: 50%; // Circular shape
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: #e53935 !important; // Red background on hover
+      i {
+        color: #fff; // White icon on hover
+      }
+    }
+
+    i {
+      color: #e53935; // Red icon color
+      font-size: 16px;
+    }
+
+    &.next-arrow {
+      right: 0px; // Position outside the slider
+    }
+
+    &.prev-arrow {
+      left: 0px; // Position outside the slider
+    }
+  }
+
+  .btn-wrapper {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .red-btn {
+    background: #e53935;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background: #b71c1c;
+    }
+  }
+
+  .slick-prev,
+  .slick-next {
+    background: var(--secondary-color) !important;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    &::before {
+      inset: 0;
+      margin: autox;
+      font-family: none;
+    }
+  }
+
+  @media only screen and (max-width: 1023px) {
+    .heading-wrapper {
+      flex-direction: column;
+      align-items: flex-start;
+
+      .left {
+        width: 100%;
+      }
+      .btn-wrapper {
+        width: 100%;
+        justify-content: flex-start;
+        margin-top: 1rem;
+      }
+    }
+  }
+}

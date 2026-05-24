@@ -1,0 +1,30 @@
+{
+  "name": "fitnessclub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start -p 5000",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.542.0",
+    "next": "15.5.9",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hook-form": "^7.62.0",
+    "react-slick": "^0.30.3",
+    "sass": "^1.92.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "24.3.1",
+    "@types/react": "19.1.12",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "tailwindcss": "^4"
+  }
+}
