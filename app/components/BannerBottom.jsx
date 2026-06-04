@@ -6,7 +6,7 @@ const BannerBottom = () => {
             <div className="inner-wrapper">
                 <div className="right">
                     <div className="form-container">
-                        <div className="heading-wrapper">
+                        <div className="heading-wrapper" data-eyebrow="Visit RSF">
                             <h1 className="title">Request a Free <span>Call Back</span></h1>
                             <p>Join RSF Fitness Academy and elevate your fitness training career to new heights.</p>
                         </div>

@@ -84,7 +84,7 @@ const Teams = () => {
   return (
     <section className="team section-padding">
       <div className="container-fluid">
-        <div className="heading-wrapper">
+        <div className="heading-wrapper" data-eyebrow="Champion Feedback">
           <div className="title">
             What Our <span>Champions Say</span>
           </div>

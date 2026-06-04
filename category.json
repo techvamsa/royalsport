@@ -1,0 +1,98 @@
+[
+        {
+            "_id": "6a118d011fd580401ec7015d",
+            "name": "Cross Trainer",
+            "type": "Cardio Sectione",
+            "createdAt": "2026-05-23T11:18:25.836Z",
+            "updatedAt": "2026-05-23T11:18:25.836Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d021fd580401ec70160",
+            "name": "Sky Rower and Water Rower and air rower",
+            "type": "Cardio Sectione",
+            "createdAt": "2026-05-23T11:18:26.496Z",
+            "updatedAt": "2026-05-23T11:18:26.496Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d031fd580401ec70163",
+            "name": "Spin Bike",
+            "type": "Cardio Sectione",
+            "createdAt": "2026-05-23T11:18:27.191Z",
+            "updatedAt": "2026-05-23T11:18:27.191Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d031fd580401ec70166",
+            "name": "Treadmill",
+            "type": "Cardio Sectione",
+            "createdAt": "2026-05-23T11:18:27.918Z",
+            "updatedAt": "2026-05-23T11:18:27.918Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d041fd580401ec70169",
+            "name": "Hammer Series",
+            "type": "Hammer Sectione",
+            "createdAt": "2026-05-23T11:18:28.726Z",
+            "updatedAt": "2026-05-23T11:18:28.726Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d051fd580401ec7016c",
+            "name": "BH Series",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:29.453Z",
+            "updatedAt": "2026-05-23T11:18:29.453Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d061fd580401ec7016f",
+            "name": "Dezire Series",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:30.101Z",
+            "updatedAt": "2026-05-23T11:18:30.101Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d061fd580401ec70172",
+            "name": "KG Series",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:30.872Z",
+            "updatedAt": "2026-05-23T11:18:30.872Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d071fd580401ec70175",
+            "name": "RS- 5",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:31.518Z",
+            "updatedAt": "2026-05-23T11:18:31.518Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d081fd580401ec70178",
+            "name": "RS-7",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:32.201Z",
+            "updatedAt": "2026-05-23T11:18:32.201Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d081fd580401ec7017b",
+            "name": "Smart Series",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:32.846Z",
+            "updatedAt": "2026-05-23T11:18:32.846Z",
+            "__v": 0
+        },
+        {
+            "_id": "6a118d091fd580401ec7017e",
+            "name": "Supreme Series",
+            "type": "Streagth Sectione",
+            "createdAt": "2026-05-23T11:18:33.506Z",
+            "updatedAt": "2026-05-23T11:18:33.506Z",
+            "__v": 0
+        }
+    ]

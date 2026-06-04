@@ -1,6 +1,10 @@
 import "@/app/styles/app.scss";
+import "@/app/styles/site-animations.scss";
 import Header from "@/app/components/header";
 import Footer from "@/app/components/Footer";
+import GlobalFixedbtns from "@/app/components/GlobalFixedbtns";
+import SiteAnimations from "@/app/components/SiteAnimations";
+import SiteBreadcrumb from "@/app/components/SiteBreadcrumb";
 import Script from "next/script";
 export const metadata = {
   title: "Royal Sports Fitness",
@@ -18,7 +22,7 @@ export default function RootLayout({ children }) {
           crossOrigin={"anonymous"}
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap"
           rel="stylesheet"
         ></link>
         <Script id="gtm-init" strategy="afterInteractive">
@@ -42,10 +46,13 @@ export default function RootLayout({ children }) {
           ></iframe>
         </noscript>
         {/* End Google Tag Manager (noscript) */}
+        <SiteAnimations />
         <Header />
+        <SiteBreadcrumb />
         {children}
 
         <Footer />
+        <GlobalFixedbtns />
         <script src="https://elfsightcdn.com/platform.js" async></script>
       </body>
     </html>

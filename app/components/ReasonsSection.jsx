@@ -45,7 +45,7 @@ const reasons = [
   return (
     <section className="reasons">
       <div className="container">
-        <div className="heading-wrapper">
+        <div className="heading-wrapper" data-eyebrow="Why Choose RSF">
           <div className="title">
             Reasons to Choose <span>RSF Fitness Academy  </span>
           </div>

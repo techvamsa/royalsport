@@ -52,7 +52,7 @@ const Faculty = () => {
   return (
     <section className="faculty section-padding">
       <div className="container">
-        <div className="heading-wrapper">
+        <div className="heading-wrapper" data-eyebrow="Expert Faculty">
           <h2 className="title">
             Our <span>Faculty</span>
           </h2>

@@ -6,7 +6,7 @@ const Fitness = () => {
         <section className="fitness section-padding">
             <div className="container">
                 <div className="inner-wrapper">
-                    <div className="heading-wrapper">
+                    <div className="heading-wrapper" data-eyebrow="Equipment Solutions">
                         <h2 className="title">Premium Fitness Equipment for <span>Every Goal </span></h2>
                         <p>RSF Fitness Academy delivers top-quality fitness equipment and complete gym setup solutions — durable, reliable, and designed to elevate every workout</p>
                     </div>

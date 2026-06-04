@@ -11,7 +11,7 @@ const About = () => {
             <img src="/imgs/about-us.jpg" alt="About" />
           </div>
           <div className="right">
-            <div className="heading-wrapper">
+            <div className="heading-wrapper" data-eyebrow="About The Academy">
               <h2 className="title">
                 About <span>RSF Fitness Academy  </span>
               </h2>

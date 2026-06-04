@@ -4,7 +4,7 @@ const ApprovedWith = () => {
     return (
         <section className="approved section-padding">
             <div className="container">
-                <div className="heading-wrapper">
+                <div className="heading-wrapper" data-eyebrow="Approvals">
                     <div className="title">Approved <span>With</span></div>
                     <p>Unlocking Your Potential for Success in Every Industry</p>
                 </div>

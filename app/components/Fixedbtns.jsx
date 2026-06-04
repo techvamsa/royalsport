@@ -6,6 +6,7 @@ import "@/app/styles/popup.scss";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import Form from "@/app/components/Form";
+import WhatsAppIcon from "@/app/components/WhatsAppIcon";
 
 const FloatingIcons = ({handlePopupClose,handlePopup,isOpen}) => {
 
@@ -61,12 +62,7 @@ const FloatingIcons = ({handlePopupClose,handlePopup,isOpen}) => {
             "https://api.whatsapp.com/send/?phone=7455900612&text=Royal Sports n Fitness&app_absent=0"
           }
         >
-          <Image
-            src={"/whatsappFloating.svg"}
-            alt="whatsapp"
-            width={26}
-            height={26}
-          />
+          <WhatsAppIcon size={27} />
         </Link>
       </div>
       {isOpen && (
@@ -89,13 +85,7 @@ const FloatingIcons = ({handlePopupClose,handlePopup,isOpen}) => {
                   "https://api.whatsapp.com/send/?phone=917455900612&text=Royal Sports n Fitness&app_absent=0"
                 }
               >
-                <Image
-                  className="ml-2"
-                  src={"/whatsappIcon.svg"}
-                  alt="whatsapp"
-                  width={16}
-                  height={16}
-                />
+                <WhatsAppIcon size={18} className="ml-2" />
               </Link>
             </div>
             <div className="btm-btns__btn  flex p-1.5">

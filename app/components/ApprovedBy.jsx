@@ -4,7 +4,7 @@ const ApprovedBy = () => {
     return (
         <section className="approved section-padding">
             <div className="container">
-                <div className="heading-wrapper">
+                <div className="heading-wrapper" data-eyebrow="Affiliations">
                     <div className="title">Affiliated <span>By</span></div>
                     <p>Unlocking Your Potential for Success in Every Industry</p>
                 </div>

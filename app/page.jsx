@@ -1,43 +1,21 @@
 "use client";
-import Achievements from "@/app/components/Achievements";
-import ApprovedBy from "@/app/components/ApprovedBy";
-import ApprovedWith from "@/app/components/ApprovedWith";
 import BannerBottom from "@/app/components/BannerBottom";
 import Clients from "@/app/components/Clients";
 import EqBanner from "@/app/components/EqBanner";
 import EquipmentRange from "@/app/components/EquipmentRange";
 import Fitness from "@/app/components/Fitness";
-import Fixedbtns from "@/app/components/Fixedbtns";
+import OurAchievements from "@/app/components/OurAchievements";
+import MediaSections from "@/app/components/MediaSections";
+import ClientTestimonials from "@/app/components/ClientTestimonials";
 import "@/app/styles/equipment.scss";
-import { useEffect, useState } from "react";
 import Offers from "@/app/components/Offers";
 import ProductCategories from "./components/Products";
+import BlogSection from "@/app/components/BlogSection";
+import { OPEN_ENQUIRY_POPUP_EVENT } from "@/app/components/GlobalFixedbtns";
 
 const EquipmentPage = () => {
-  const [isOpen, setIsOpen] = useState(() => {
-    if (typeof window !== "undefined") {
-      return !sessionStorage.getItem("formSubmitted");
-    }
-    return false;
-  });
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      const hasFilledForm = sessionStorage.getItem("formSubmitted");
-      if (!hasFilledForm && !isOpen) {
-        setIsOpen(true);
-      }
-    }, 60000);
-
-    return () => clearInterval(interval);
-  }, [isOpen]);
-
   const handlePopup = () => {
-    setIsOpen(true);
-  };
-
-  const handlePopupClose = () => {
-    setIsOpen(false);
+    window.dispatchEvent(new Event(OPEN_ENQUIRY_POPUP_EVENT));
   };
 
   return (
@@ -78,7 +56,11 @@ const EquipmentPage = () => {
 
       <ProductCategories handlePopup={handlePopup} />
 
-      <Achievements />
+      <OurAchievements />
+
+      <MediaSections />
+
+      <BlogSection />
 
       <section class="faq-section section-padding-bottom" id="feedback">
         <div class="container">
@@ -171,15 +153,7 @@ const EquipmentPage = () => {
 
       <BannerBottom />
 
-      <ApprovedBy />
-      <ApprovedWith />
       <Fitness />
-
-      <Fixedbtns
-        handlePopup={handlePopup}
-        handlePopupClose={handlePopupClose}
-        isOpen={isOpen}
-      />
     </>
   );
 };

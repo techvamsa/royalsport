@@ -297,6 +297,17 @@
         span {
           color: var(--green-color) !important;
         }
+
+        .btm-btns__icon {
+          width: 1.85rem;
+          height: 1.85rem;
+          margin-left: 0.45rem;
+          border-radius: 50%;
+          background: #25d366;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+        }
       }
     }
     
@@ -310,6 +321,13 @@
 
     img {
       width: 1.5rem;
+      height: 1.5rem;
+      object-fit: contain;
+    }
+
+    .btm-btns__btn--whatsapp img {
+      width: 1rem;
+      height: 1rem;
     }
 
     

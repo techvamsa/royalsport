@@ -8,65 +8,69 @@ import {
   Mail,
   MapPin,
   Menu,
-  MessageCircle,
   Phone,
   X,
 } from "lucide-react";
+import { courseNavItems } from "@/app/libs/courses";
+import WhatsAppIcon from "@/app/components/WhatsAppIcon";
 
 const equipmentGroups = [
   {
     title: "Streagth Sectione",
     items: [
-      { label: "BH Series", href: "/#StrengthMachine" },
-      { label: "Dezire Series", href: "/#DezireSeries" },
-      { label: "KG Series", href: "/#KGSeries" },
-      { label: "RS- 5", href: "/#RS5Series" },
-      { label: "RS-7", href: "/#RS7Series" },
-      { label: "Smart Series", href: "/#SmartSeries" },
-      { label: "Supreme Series", href: "/#SupremeSeries" },
+      { label: "BH Series", href: "/product/strength-machines?category=bh-series" },
+      { label: "Dezire Series", href: "/product/strength-machines?category=dezire-series" },
+      { label: "KG Series", href: "/product/strength-machines?category=kg-series" },
+      { label: "RS- 5", href: "/product/strength-machines?category=rs-5" },
+      { label: "RS-7", href: "/product/strength-machines?category=rs-7" },
+      { label: "Smart Series", href: "/product/strength-machines?category=smart-series" },
+      { label: "Supreme Series", href: "/product/strength-machines?category=supreme-series" },
     ],
   },
   {
     title: "Cardio Sectione",
     items: [
-      { label: "Cross Trainer", href: "/#CardioMachines" },
-      { label: "Sky Rower and Water Rower", href: "/#CardioMachines" },
-      { label: "Spin Bike", href: "/#CardioMachines" },
-      { label: "Treadmill", href: "/#CardioMachines" },
+      { label: "Cross Trainer", href: "/product/cardio-machines?category=cross-trainer" },
+      {
+        label: "Sky Rower and Water Rower",
+        href: "/product/cardio-machines?category=sky-rower-and-water-rower-and-air-rower",
+      },
+      { label: "Spin Bike", href: "/product/cardio-machines?category=spin-bike" },
+      { label: "Treadmill", href: "/product/cardio-machines?category=treadmill" },
     ],
   },
   {
     title: "Others",
-    items: [{ label: "Hammer Series", href: "/#HammerSeries" }],
+    items: [
+      { label: "Hammer Series", href: "/product/hammer-machines?category=hammer-series" },
+    ],
   },
 ];
 
 const navItems = [
   { label: "Home", href: "/" },
+  // { label: "About", href: "/about-us" },
   {
     label: "Equipment",
-    href: "/#equipment",
+    href: "/product",
     type: "mega",
     groups: equipmentGroups,
   },
   {
     label: "Academy",
-    href: "https://royalsportsnfitness.com/academy",
+    href: "/fitness-academy",
     children: [
-      { label: "Fitness Academy", href: "https://royalsportsnfitness.com/academy" },
-      {
-        label: "Fitness Trainer",
-        href: "https://royalsportsnfitness.com/best-online-personal-training-certification",
-      },
+      { label: "Fitness Academy", href: "/fitness-academy" },
+      ...courseNavItems,
     ],
   },
-  { label: "Accessories", href: "https://royalsportsnfitness.com/accessories" },
+  { label: "Accessories", href: "/accessories" },
   {
     label: "Sports & Amenities",
-    href: "https://royalsportsnfitness.com/sports-and-aminities",
+    href: "/sports-and-aminities",
   },
-  { label: "Blogs", href: "https://royalsportsnfitness.com/blog" },
-  { label: "Contact", href: "https://royalsportsnfitness.com/contact-us" },
+  { label: "Blogs", href: "/blogs" },
+  { label: "Contact", href: "/contact-us" },
 ];
 
 const contactUrl =
@@ -174,9 +178,10 @@ const Header = () => {
                 target="_blank"
                 rel="noreferrer"
                 className="site-header__whatsapp"
+                aria-label="WhatsApp"
+                title="WhatsApp"
               >
-                <MessageCircle size={18} strokeWidth={2.4} />
-                WhatsApp
+                <WhatsAppIcon size={25} />
               </Link>
               <a href="tel:+918126299638" className="site-header__call">
                 <Phone size={18} strokeWidth={2.4} />

@@ -1,16 +1,27 @@
 import Link from "next/link";
-import { Building2, Download, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
+import {
+  Building2,
+  ChevronDown,
+  Download,
+  Mail,
+  MapPin,
+  Phone,
+} from "lucide-react";
+import WhatsAppIcon from "@/app/components/WhatsAppIcon";
 
 const companyIntro =
   "Royal Sports and Fitness helps gym owners, fitness professionals, academies, and clubs build better fitness spaces with quality equipment, education, and support.";
 
 const quickLinks = [
-  { label: "Gym Equipment", href: "/#equipment" },
-  { label: "Cardio Machines", href: "/#CardioMachines" },
-  { label: "Strength Machines", href: "/#StrengthMachine" },
-  { label: "Fitness Academy", href: "https://royalsportsnfitness.com/academy" },
-  { label: "Accessories", href: "https://royalsportsnfitness.com/accessories" },
-  { label: "Contact Us", href: "https://royalsportsnfitness.com/contact-us" },
+  { label: "About Us", href: "/about-us" },
+  { label: "Gym Equipment", href: "/product" },
+  { label: "Cardio Machines", href: "/product/cardio-machines" },
+  { label: "Strength Machines", href: "/product/strength-machines" },
+  { label: "Fitness Academy", href: "/fitness-academy" },
+  { label: "Accessories", href: "/accessories" },
+  { label: "Blogs", href: "/blogs" },
+  { label: "FAQ", href: "/faq" },
+  { label: "Contact Us", href: "/contact-us" },
 ];
 
 const contactActions = [
@@ -22,7 +33,7 @@ const contactActions = [
   {
     label: "WhatsApp",
     href: "https://api.whatsapp.com/send/?phone=918126299638&text&type=phone_number&app_absent=0",
-    icon: MessageCircle,
+    icon: WhatsAppIcon,
   },
   {
     label: "Brochure",
@@ -99,6 +110,17 @@ const officeLocations = [
     icon: MapPin,
   },
 ];
+
+const officeGroups = officeLocations.reduce((groups, office) => {
+  const existingGroup = groups.find((group) => group.title === office.title);
+
+  if (existingGroup) {
+    existingGroup.locations.push(office);
+    return groups;
+  }
+
+  return [...groups, { title: office.title, locations: [office] }];
+}, []);
 
 const Footer = () => {
   return (
@@ -187,32 +209,57 @@ const Footer = () => {
               <h2>Our Offices</h2>
             </div>
 
-            <div className="footer__office-grid">
-              {officeLocations.map((office) => {
-                const Icon = office.icon;
+            <div className="footer__office-groups">
+              {officeGroups.map((group, groupIndex) => (
+                <details
+                  className={`footer__office-group ${
+                    group.locations.length === 1
+                      ? "footer__office-group--single"
+                      : "footer__office-group--multiple"
+                  }`}
+                  key={group.title}
+                  open={groupIndex === 0}
+                >
+                  <summary>
+                    <span>{group.title}</span>
+                    <small>
+                      {group.locations.length}{" "}
+                      {group.locations.length === 1 ? "location" : "locations"}
+                    </small>
+                    <ChevronDown size={18} strokeWidth={2.4} />
+                  </summary>
 
-                return (
-                  <article className="footer__office" key={`${office.title}-${office.city}`}>
-                    <div className="footer__office-icon">
-                      <Icon size={19} strokeWidth={2.4} />
-                    </div>
-                    <div>
-                      <span>{office.title}</span>
-                      <h3>{office.city}</h3>
-                      <p>{office.address}</p>
-                      {office.phones && (
-                        <div className="footer__office-phones">
-                          {office.phones.map((phone) => (
-                            <Link href={phone.href} key={phone.label}>
-                              {phone.label}
-                            </Link>
-                          ))}
-                        </div>
-                      )}
-                    </div>
-                  </article>
-                );
-              })}
+                  <div className="footer__office-list">
+                    {group.locations.map((office) => {
+                      const Icon = office.icon;
+
+                      return (
+                        <article
+                          className="footer__office"
+                          key={`${office.title}-${office.city}`}
+                        >
+                          <div className="footer__office-icon">
+                            <Icon size={19} strokeWidth={2.4} />
+                          </div>
+                          <div>
+                            <h3>{office.city}</h3>
+                            <p>{office.address}</p>
+                            {office.phones && (
+                              <div className="footer__office-phones">
+                                {office.phones.map((phone) => (
+                                  <Link href={phone.href} key={phone.label}>
+                                    {phone.label}
+                                  </Link>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </article>
+                      );
+                    })}
+                  </div>
+                </details>
+              ))}
             </div>
           </div>
         </div>
@@ -223,23 +270,14 @@ const Footer = () => {
           <span>Equipment / Academy / Club</span>
           <p>
             &copy; Copyright{" "}
-            <Link href="https://digisidekick.com/" target="_blank" rel="noreferrer">
-              Digisidekick
+            <Link href="https://techvamsa.com" target="_blank" rel="noreferrer">
+              TechVamsa
             </Link>
             . All Rights Reserved
           </p>
         </div>
       </div>
 
-      <Link
-        href="https://api.whatsapp.com/send/?phone=918126299638&text&type=phone_number&app_absent=0"
-        target="_blank"
-        rel="noreferrer"
-        className="sticky-whatsapp"
-      >
-        <img src="/imgs/whatsapp.svg" alt="" />
-        How Can I Help You
-      </Link>
     </footer>
   );
 };

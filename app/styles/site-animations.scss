@@ -1,0 +1,167 @@
+@media (prefers-reduced-motion: no-preference) {
+  html.site-motion-ready {
+    scroll-behavior: smooth;
+  }
+
+  html.site-motion-ready body {
+    animation: site-page-in 0.45s ease both;
+  }
+
+  html.site-motion-ready .site-header {
+    animation: site-header-in 0.58s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  html.site-motion-ready .site-reveal {
+    opacity: 0;
+    transform: translateY(1.7rem) scale(0.985);
+    filter: blur(8px);
+    transition:
+      opacity 0.72s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.72s cubic-bezier(0.22, 1, 0.36, 1),
+      filter 0.72s cubic-bezier(0.22, 1, 0.36, 1);
+    transition-delay: var(--site-reveal-delay, 0ms);
+    will-change: opacity, transform, filter;
+  }
+
+  html.site-motion-ready .site-reveal--visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+
+  html.site-motion-ready footer .site-reveal {
+    opacity: 1;
+    transform: none;
+    filter: none;
+    transition: none;
+  }
+
+  html.site-motion-ready main section.site-reveal {
+    transform: translateY(2rem);
+  }
+
+  html.site-motion-ready main section.site-reveal--visible {
+    transform: translateY(0);
+  }
+
+  .btn,
+  .red-btn,
+  .site-header__call,
+  .site-header__whatsapp,
+  .site-header__brochure,
+  .looking-for__tile,
+  .eq-range__thumb,
+  .eq-range__explore,
+  .sports-hero__actions a,
+  .sports-quote__actions a,
+  .products-filter__chip,
+  .products-category-list__item,
+  .product-detail__cta,
+  .maincard,
+  .blog-card,
+  .accessory-card,
+  .course-fact-card,
+  .course-benefit-card,
+  .course-module-card,
+  .course-blog-card,
+  .course-next__links a,
+  .faq-group,
+  .faq-list details,
+  .faq-help__panel,
+  .faq-help__location,
+  .faq-contact__cards a {
+    transition:
+      transform 0.22s ease,
+      box-shadow 0.22s ease,
+      border-color 0.22s ease,
+      background-color 0.22s ease,
+      color 0.22s ease;
+  }
+
+  .btn:hover,
+  .red-btn:hover,
+  .site-header__call:hover,
+  .site-header__whatsapp:hover,
+  .site-header__brochure:hover,
+  .looking-for__tile:hover,
+  .eq-range__thumb:hover,
+  .eq-range__explore:hover,
+  .sports-hero__actions a:hover,
+  .sports-quote__actions a:hover,
+  .product-detail__cta:hover,
+  .blog-card:hover,
+  .accessory-card:hover,
+  .course-fact-card:hover,
+  .course-benefit-card:hover,
+  .course-blog-card:hover,
+  .faq-group:hover,
+  .faq-help__panel:hover,
+  .faq-help__location:hover,
+  .faq-contact__cards a:hover {
+    transform: translateY(-2px);
+  }
+
+  .maincard:hover,
+  .maincard:focus-within {
+    transform: translateY(-3px);
+  }
+
+  .site-header__nav-link,
+  .site-header__dropdown a,
+  .site-header__mega a,
+  .site-header__mobile-link,
+  .footer__links a,
+  .footer__actions a,
+  .footer__social a {
+    transition:
+      color 0.2s ease,
+      background-color 0.2s ease,
+      transform 0.2s ease,
+      opacity 0.2s ease;
+  }
+
+  img,
+  video {
+    transition:
+      transform 0.35s ease,
+      filter 0.35s ease,
+      opacity 0.35s ease;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes site-page-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes site-header-in {
+  from {
+    opacity: 0;
+    transform: translateY(-0.8rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

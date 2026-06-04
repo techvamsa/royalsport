@@ -1,7 +1,37 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["royalsportsnfitness.com", "http://localhost:3000","equipment.royalsportsnfitness.com"], // add your domains here
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "royalsportsnfitness.com",
+      },
+      {
+        protocol: "https",
+        hostname: "equipment.royalsportsnfitness.com",
+      },
+      {
+        protocol: "https",
+        hostname: "enquiry.royalsportsnfitness.com",
+      },
+      {
+        protocol: "https",
+        hostname: "m.media-amazon.com",
+      },
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+      },
+      {
+        protocol: "https",
+        hostname: "dummyimage.com",
+      },
+      {
+        protocol: "http",
+        hostname: "localhost",
+        port: "3000",
+      },
+    ],
   },
 };
 

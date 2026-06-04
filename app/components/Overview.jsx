@@ -18,7 +18,7 @@ const Overview = () => {
                     </div>
 
                     <div className="right">
-                        <div className="heading-wrapper">
+                        <div className="heading-wrapper" data-eyebrow="Academy Overview">
                             <div className="title">Overview of <span>The RSF Fitness Academy  </span></div>
                         </div>
 

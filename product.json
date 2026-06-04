@@ -1,0 +1,2146 @@
+[
+        {
+            "_id": "6a118f76e812c9a75361a123",
+            "ProductName": "Cross Trainer CFE 2500",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d011fd580401ec7015d",
+                "name": "Cross Trainer",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:25.836Z",
+                "updatedAt": "2026-05-23T11:18:25.836Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Cross Trainer/Cross Trainer CFE 2500.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a124",
+            "ProductName": "Cross Trainer KH2070-1",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d011fd580401ec7015d",
+                "name": "Cross Trainer",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:25.836Z",
+                "updatedAt": "2026-05-23T11:18:25.836Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Cross Trainer/Cross Trainer KH2070-1.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a125",
+            "ProductName": "Cross Trainer Mat - X",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d011fd580401ec7015d",
+                "name": "Cross Trainer",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:25.836Z",
+                "updatedAt": "2026-05-23T11:18:25.836Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Cross Trainer/Cross Trainer Mat - X.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a126",
+            "ProductName": "Cross Trainer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d011fd580401ec7015d",
+                "name": "Cross Trainer",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:25.836Z",
+                "updatedAt": "2026-05-23T11:18:25.836Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Cross Trainer/Cross Trainer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a127",
+            "ProductName": "KH585 Viva Cross Trainer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d011fd580401ec7015d",
+                "name": "Cross Trainer",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:25.836Z",
+                "updatedAt": "2026-05-23T11:18:25.836Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Cross Trainer/KH585 Viva Cross Trainer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a128",
+            "ProductName": "Air Rower",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d021fd580401ec70160",
+                "name": "Sky Rower and Water Rower and air rower",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:26.496Z",
+                "updatedAt": "2026-05-23T11:18:26.496Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Sky Rower and Water Rower and air rower/Air Rower.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a129",
+            "ProductName": "Sky Rower",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d021fd580401ec70160",
+                "name": "Sky Rower and Water Rower and air rower",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:26.496Z",
+                "updatedAt": "2026-05-23T11:18:26.496Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Sky Rower and Water Rower and air rower/Sky Rower.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12a",
+            "ProductName": "Water Rower",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d021fd580401ec70160",
+                "name": "Sky Rower and Water Rower and air rower",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:26.496Z",
+                "updatedAt": "2026-05-23T11:18:26.496Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Sky Rower and Water Rower and air rower/Water Rower.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12b",
+            "ProductName": "Air Bike",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70163",
+                "name": "Spin Bike",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.191Z",
+                "updatedAt": "2026-05-23T11:18:27.191Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Spin Bike/Air Bike.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12c",
+            "ProductName": "Spin Bike Gear",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70163",
+                "name": "Spin Bike",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.191Z",
+                "updatedAt": "2026-05-23T11:18:27.191Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Spin Bike/Spin Bike Gear.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12d",
+            "ProductName": "Spin Bike Yellow",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70163",
+                "name": "Spin Bike",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.191Z",
+                "updatedAt": "2026-05-23T11:18:27.191Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Spin Bike/Spin Bike Yellow.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12e",
+            "ProductName": "Spin Bike",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70163",
+                "name": "Spin Bike",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.191Z",
+                "updatedAt": "2026-05-23T11:18:27.191Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Spin Bike/Spin Bike.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a12f",
+            "ProductName": "AF Treadmill",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/AF Treadmill.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a130",
+            "ProductName": "Ab Coster",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Ab Coster.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a131",
+            "ProductName": "Curve Treadmill",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Curve Treadmill.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a132",
+            "ProductName": "Recumbent Bike",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Recumbent Bike.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a133",
+            "ProductName": "Stair Master",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Stair Master.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a134",
+            "ProductName": "Thor Treadmill",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Thor Treadmill.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a135",
+            "ProductName": "Treadmill 099",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill 099.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a136",
+            "ProductName": "Treadmill 109",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill 109.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a137",
+            "ProductName": "Treadmill 1900",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill 1900.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a138",
+            "ProductName": "Treadmill 1919",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill 1919.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a139",
+            "ProductName": "Treadmill Black FBT 910",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill Black FBT 910.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13a",
+            "ProductName": "Treadmill RSF2",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill RSF2.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13b",
+            "ProductName": "Treadmill S 600",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill S 600.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13c",
+            "ProductName": "Treadmill SYT - P1010",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill SYT - P1010.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13d",
+            "ProductName": "Treadmill SYT - T17",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill SYT - T17.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13e",
+            "ProductName": "Treadmill T9",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill T9.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a13f",
+            "ProductName": "Treadmill X8",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Treadmill X8.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a140",
+            "ProductName": "Upright Bike",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d031fd580401ec70166",
+                "name": "Treadmill",
+                "type": "Cardio Sectione",
+                "createdAt": "2026-05-23T11:18:27.918Z",
+                "updatedAt": "2026-05-23T11:18:27.918Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Cardio Sectione/Treadmill/Upright Bike.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a141",
+            "ProductName": "Abdominal Bench Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Abdominal Bench Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a142",
+            "ProductName": "Back Extension Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Back Extension Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a143",
+            "ProductName": "Back Rowing Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Back Rowing Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a144",
+            "ProductName": "Belt Squat Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Belt Squat Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a145",
+            "ProductName": "Biceps Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Biceps Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a146",
+            "ProductName": "Chest Press Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Chest Press Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a147",
+            "ProductName": "Chest Press Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Chest Press Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a148",
+            "ProductName": "Cross Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Cross Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a149",
+            "ProductName": "Hip Thrust",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Hip Thrust.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14a",
+            "ProductName": "Incline Pec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Incline Pec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14b",
+            "ProductName": "Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14c",
+            "ProductName": "Lateral Raise",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Lateral Raise.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14d",
+            "ProductName": "Leg Press Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Leg Press Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14e",
+            "ProductName": "Low Row Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Low Row Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a14f",
+            "ProductName": "Pull Over",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Pull Over.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a150",
+            "ProductName": "Shoulder Press Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Shoulder Press Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a151",
+            "ProductName": "Super Squat Hammer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d041fd580401ec70169",
+                "name": "Hammer Series",
+                "type": "Hammer Sectione",
+                "createdAt": "2026-05-23T11:18:28.726Z",
+                "updatedAt": "2026-05-23T11:18:28.726Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Hammer Sectione/Hammer Series/Super Squat Hammer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a152",
+            "ProductName": "Assit Dip Chin",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Assit Dip Chin.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a153",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a154",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a155",
+            "ProductName": "Hi Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Hi Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a156",
+            "ProductName": "Inner Outer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Inner Outer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a157",
+            "ProductName": "Lareral Raise",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Lareral Raise.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a158",
+            "ProductName": "Leg Curl Extensione",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Leg Curl Extensione.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a159",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15a",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15b",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15c",
+            "ProductName": "Seated Leg Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Seated Leg Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15d",
+            "ProductName": "Seated Rowing",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Seated Rowing.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15e",
+            "ProductName": "Shoulder Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d051fd580401ec7016c",
+                "name": "BH Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:29.453Z",
+                "updatedAt": "2026-05-23T11:18:29.453Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/BH Series/Shoulder Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a15f",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a160",
+            "ProductName": "Functional Trainer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Functional Trainer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a161",
+            "ProductName": "Hi Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Hi Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a162",
+            "ProductName": "Leg Curl Ext",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Leg Curl Ext.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a163",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a164",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec7016f",
+                "name": "Dezire Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.101Z",
+                "updatedAt": "2026-05-23T11:18:30.101Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Dezire Series/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a165",
+            "ProductName": "Abductor Adductor",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Abductor Adductor.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a166",
+            "ProductName": "Assisted Chin Dip",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Assisted Chin Dip.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a167",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a168",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a169",
+            "ProductName": "Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16a",
+            "ProductName": "Lat Pull seated Rowing",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Lat Pull seated Rowing.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16b",
+            "ProductName": "Leg Curl Extension",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Leg Curl Extension.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16c",
+            "ProductName": "Leg Extension",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Leg Extension.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16d",
+            "ProductName": "Leg Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Leg Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16e",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a16f",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a170",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a171",
+            "ProductName": "Seated Horizontal Pulley",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Seated Horizontal Pulley.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a172",
+            "ProductName": "Seated Rowing",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Seated Rowing.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a173",
+            "ProductName": "Shoulder Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Shoulder Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a174",
+            "ProductName": "Tricep Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d061fd580401ec70172",
+                "name": "KG Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:30.872Z",
+                "updatedAt": "2026-05-23T11:18:30.872Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/KG Series/Tricep Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a175",
+            "ProductName": "Assited Dip Chin",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Assited Dip Chin.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a176",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a177",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a178",
+            "ProductName": "Inner Outer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Inner Outer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a179",
+            "ProductName": "Leg Curl Ext",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Leg Curl Ext.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17a",
+            "ProductName": "Leg Extension",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Leg Extension.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17b",
+            "ProductName": "Leg Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Leg Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17c",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17d",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17e",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a17f",
+            "ProductName": "hi lat pull down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d071fd580401ec70175",
+                "name": "RS- 5",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:31.518Z",
+                "updatedAt": "2026-05-23T11:18:31.518Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS- 5/hi lat pull down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a180",
+            "ProductName": "Assited Dip Chin",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Assited Dip Chin.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a181",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a182",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a183",
+            "ProductName": "Hi Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Hi Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a184",
+            "ProductName": "Inner Outer",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Inner Outer.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a185",
+            "ProductName": "Lateral Raise",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Lateral Raise.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a186",
+            "ProductName": "Leg Curl Ext",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Leg Curl Ext.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a187",
+            "ProductName": "Leg Curl Extensione",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Leg Curl Extensione.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a188",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a189",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18a",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18b",
+            "ProductName": "Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18c",
+            "ProductName": "Seated Leg Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Seated Leg Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18d",
+            "ProductName": "Shoulder Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec70178",
+                "name": "RS-7",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.201Z",
+                "updatedAt": "2026-05-23T11:18:32.201Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/RS-7/Shoulder Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18e",
+            "ProductName": "Abductore Adductore",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Abductore Adductore.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a18f",
+            "ProductName": "Assited Dip Chin",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Assited Dip Chin.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a190",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a191",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a192",
+            "ProductName": "Hi Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Hi Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a193",
+            "ProductName": "Lateral Raise",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Lateral Raise.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a194",
+            "ProductName": "Leg Curl Ext",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Leg Curl Ext.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a195",
+            "ProductName": "Multi Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Multi Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a196",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a197",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a198",
+            "ProductName": "Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a199",
+            "ProductName": "Shoulder Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Shoulder Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19a",
+            "ProductName": "Vartical Row",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d081fd580401ec7017b",
+                "name": "Smart Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:32.846Z",
+                "updatedAt": "2026-05-23T11:18:32.846Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Smart Series/Vartical Row.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19b",
+            "ProductName": "Abdominal Forword",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Abdominal Forword.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19c",
+            "ProductName": "Abductor Abuctor",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Abductor Abuctor.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19d",
+            "ProductName": "Assited Dip Cin",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Assited Dip Cin.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19e",
+            "ProductName": "Biceps & Triceps",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Biceps & Triceps.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a19f",
+            "ProductName": "Chest Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Chest Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a0",
+            "ProductName": "Hi Lat Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Hi Lat Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a1",
+            "ProductName": "Lateral Raise",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Lateral Raise.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a2",
+            "ProductName": "Leg Curl Ext",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Leg Curl Ext.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a3",
+            "ProductName": "Pec Dec Fly",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Pec Dec Fly.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a4",
+            "ProductName": "Pron Leg Curl",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Pron Leg Curl.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a5",
+            "ProductName": "Pull Down",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Pull Down.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a6",
+            "ProductName": "Rowing Machine",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Rowing Machine.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a7",
+            "ProductName": "Seated Leg Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Seated Leg Press.jpg"
+            ]
+        },
+        {
+            "_id": "6a118f76e812c9a75361a1a8",
+            "ProductName": "Shoulder Press",
+            "ProductShortDescription": "",
+            "Category": {
+                "_id": "6a118d091fd580401ec7017e",
+                "name": "Supreme Series",
+                "type": "Streagth Sectione",
+                "createdAt": "2026-05-23T11:18:33.506Z",
+                "updatedAt": "2026-05-23T11:18:33.506Z",
+                "__v": 0
+            },
+            "ProductImage": [
+                "/Streagth Sectione/Supreme Series/Shoulder Press.jpg"
+            ]
+        }
+    ]

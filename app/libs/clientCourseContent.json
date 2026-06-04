@@ -1,0 +1,445 @@
+{
+  "courses": [
+    {
+      "courseName": "Personal Trainer for Special Population",
+      "courseCode": "PTSP",
+      "duration": "3–6 Months",
+      "mode": ["Online", "Offline"],
+      "eligibility": "10+2 Pass or Equivalent",
+      "assessment": "Theory & Practical Examination",
+      "overview": "The Personal Trainer for Special Population Course is designed to provide specialized knowledge and practical skills required to safely train individuals with unique health conditions, medical concerns, and physical limitations.",
+      "chapters": [
+        {
+          "chapter": 1,
+          "title": "Introduction to Special Populations",
+          "topics": [
+            "Understanding Special Populations",
+            "Scope of Practice for Personal Trainers",
+            "Medical Clearance and Screening",
+            "Exercise Safety Considerations",
+            "Risk Factors and Contraindications"
+          ]
+        },
+        {
+          "chapter": 2,
+          "title": "Functional Anatomy & Physiology",
+          "topics": [
+            "Musculoskeletal System",
+            "Cardiovascular System",
+            "Respiratory System",
+            "Nervous System",
+            "Age-Related Physiological Changes"
+          ]
+        },
+        {
+          "chapter": 3,
+          "title": "Client Assessment & Health Screening",
+          "topics": [
+            "Pre-Exercise Screening",
+            "PAR-Q and Health Risk Assessment",
+            "Postural Analysis",
+            "Functional Movement Assessment",
+            "Fitness Testing Modifications"
+          ]
+        },
+        {
+          "chapter": 4,
+          "title": "Exercise Programming for Older Adults",
+          "topics": [
+            "Aging Process and Fitness",
+            "Sarcopenia and Muscle Loss",
+            "Balance and Fall Prevention",
+            "Strength Training for Seniors",
+            "Mobility and Flexibility Training"
+          ]
+        },
+        {
+          "chapter": 5,
+          "title": "Exercise for Obesity & Weight Management",
+          "topics": [
+            "Obesity Classification",
+            "Metabolic Syndrome",
+            "Energy Balance",
+            "Weight Loss Exercise Prescription",
+            "Behaviour Modification Strategies"
+          ]
+        },
+        {
+          "chapter": 6,
+          "title": "Exercise for Diabetes Management",
+          "topics": [
+            "Type 1 and Type 2 Diabetes",
+            "Blood Glucose Regulation",
+            "Exercise Considerations",
+            "Hypoglycemia and Hyperglycemia",
+            "Lifestyle Modification"
+          ]
+        },
+        {
+          "chapter": 7,
+          "title": "Cardiovascular Conditions & Exercise",
+          "topics": [
+            "Hypertension",
+            "Coronary Artery Disease",
+            "Cardiac Rehabilitation Basics",
+            "Exercise Intensity Monitoring",
+            "Emergency Procedures"
+          ]
+        },
+        {
+          "chapter": 8,
+          "title": "Orthopedic Conditions & Corrective Exercise",
+          "topics": [
+            "Low Back Pain",
+            "Knee Disorders",
+            "Shoulder Dysfunction",
+            "Arthritis",
+            "Post-Rehabilitation Training"
+          ]
+        },
+        {
+          "chapter": 9,
+          "title": "Exercise During Pregnancy & Postpartum",
+          "topics": [
+            "Physiological Changes During Pregnancy",
+            "Safe Exercise Guidelines",
+            "Contraindications to Exercise",
+            "Postpartum Recovery",
+            "Core and Pelvic Floor Training"
+          ]
+        },
+        {
+          "chapter": 10,
+          "title": "Exercise for Neurological & Special Conditions",
+          "topics": [
+            "Parkinson's Disease",
+            "Stroke Rehabilitation Principles",
+            "Multiple Sclerosis",
+            "Autism Spectrum Disorders",
+            "Physical Disabilities"
+          ]
+        },
+        {
+          "chapter": 11,
+          "title": "Nutrition & Lifestyle Management",
+          "topics": [
+            "Nutrition Fundamentals",
+            "Weight Management Nutrition",
+            "Hydration Strategies",
+            "Recovery Nutrition",
+            "Lifestyle Behaviour Change"
+          ]
+        },
+        {
+          "chapter": 12,
+          "title": "Professional Practice & Client Management",
+          "topics": [
+            "Communication Skills",
+            "Client Motivation",
+            "Ethical Considerations",
+            "Documentation and Record Keeping",
+            "Referral to Healthcare Professionals"
+          ]
+        }
+      ],
+      "careerOpportunities": [
+        "Special Population Fitness Trainer",
+        "Senior Fitness Specialist",
+        "Corrective Exercise Trainer",
+        "Medical Fitness Coach",
+        "Rehabilitation Support Trainer",
+        "Lifestyle & Wellness Coach",
+        "Inclusive Fitness Specialist"
+      ],
+      "certification": "Personal Trainer for Special Population Certification"
+    },
+    {
+      "courseName": "Certified Personal Trainer (CPT)",
+      "courseCode": "CPT",
+      "duration": "3–6 Months",
+      "mode": ["Online", "Offline"],
+      "eligibility": "10+2 Pass or Equivalent",
+      "assessment": "Theory & Practical Examination",
+      "overview": "The Certified Personal Trainer Course develops comprehensive knowledge of exercise science, anatomy, biomechanics, nutrition, program design, and client coaching.",
+      "chapters": [
+        {
+          "chapter": 1,
+          "title": "Human Anatomy & Physiology",
+          "topics": [
+            "Introduction to Human Anatomy",
+            "Skeletal System",
+            "Muscular System",
+            "Cardiovascular System",
+            "Respiratory System",
+            "Nervous System",
+            "Endocrine System"
+          ]
+        },
+        {
+          "chapter": 2,
+          "title": "Exercise Physiology",
+          "topics": [
+            "Energy Systems (ATP-PC, Glycolytic, Oxidative)",
+            "Exercise Metabolism",
+            "Acute Exercise Responses",
+            "Chronic Training Adaptations",
+            "Fatigue Mechanisms",
+            "Recovery Physiology"
+          ]
+        },
+        {
+          "chapter": 3,
+          "title": "Kinesiology & Biomechanics",
+          "topics": [
+            "Planes of Motion",
+            "Joint Actions",
+            "Muscle Actions",
+            "Levers in Human Movement",
+            "Biomechanics Principles",
+            "Posture Analysis"
+          ]
+        },
+        {
+          "chapter": 4,
+          "title": "Fitness Assessment & Screening",
+          "topics": [
+            "Health Screening Procedures",
+            "PAR-Q Assessment",
+            "Body Composition Analysis",
+            "Flexibility Testing",
+            "Cardiovascular Fitness Testing",
+            "Strength & Endurance Testing"
+          ]
+        },
+        {
+          "chapter": 5,
+          "title": "Resistance Training Principles",
+          "topics": [
+            "Strength Training Fundamentals",
+            "Hypertrophy Training",
+            "Muscular Endurance Training",
+            "Progressive Overload",
+            "Training Variables",
+            "Exercise Selection"
+          ]
+        },
+        {
+          "chapter": 6,
+          "title": "Cardiovascular Training",
+          "topics": [
+            "Aerobic Training",
+            "Anaerobic Training",
+            "HIIT Training",
+            "Heart Rate Zones",
+            "Endurance Development",
+            "Cardiovascular Program Design"
+          ]
+        },
+        {
+          "chapter": 7,
+          "title": "Flexibility, Mobility & Functional Training",
+          "topics": [
+            "Stretching Techniques",
+            "Mobility Training",
+            "Functional Movement",
+            "Corrective Exercise",
+            "Balance and Coordination"
+          ]
+        },
+        {
+          "chapter": 8,
+          "title": "Sports & Performance Training",
+          "topics": [
+            "Athletic Conditioning",
+            "Speed Development",
+            "Agility Training",
+            "Power Development",
+            "Plyometric Training",
+            "Sport-Specific Programming"
+          ]
+        },
+        {
+          "chapter": 9,
+          "title": "Exercise Nutrition",
+          "topics": [
+            "Macronutrients",
+            "Micronutrients",
+            "Hydration Strategies",
+            "Pre-Workout Nutrition",
+            "Post-Workout Nutrition",
+            "Weight Management Nutrition"
+          ]
+        },
+        {
+          "chapter": 10,
+          "title": "Client Communication & Professional Practice",
+          "topics": [
+            "Client Consultation",
+            "Goal Setting",
+            "Behaviour Change Strategies",
+            "Motivation Techniques",
+            "Ethics & Professional Conduct",
+            "Fitness Business Fundamentals"
+          ]
+        }
+      ],
+      "careerOpportunities": [
+        "Certified Personal Trainer",
+        "Strength & Conditioning Coach",
+        "Fitness Consultant",
+        "Gym Floor Trainer",
+        "Online Fitness Coach",
+        "Weight Management Specialist",
+        "Sports Performance Trainer"
+      ],
+      "certification": "Certified Personal Trainer (CPT) Certification"
+    },
+    {
+      "courseName": "Advance Nutrition Specialist",
+      "courseCode": "ANS",
+      "duration": "5 Months",
+      "totalHours": 80,
+      "mode": ["Online"],
+      "eligibility": "12th Pass",
+      "assessment": "Online Examination",
+      "overview": "The Advance Nutrition Specialist Course provides comprehensive knowledge of human nutrition, metabolism, clinical nutrition, sports nutrition, and dietary supplementation.",
+      "chapters": [
+        {
+          "chapter": 1,
+          "title": "Introduction to Human Body",
+          "topics": [
+            "Organization of a Cell",
+            "Respiratory System",
+            "Cardiovascular System",
+            "Nervous System",
+            "Digestive System"
+          ]
+        },
+        {
+          "chapter": 2,
+          "title": "Macronutrients",
+          "topics": [
+            "Carbohydrates",
+            "Proteins",
+            "Fats & Lipids",
+            "Functions and Metabolism of Macronutrients"
+          ]
+        },
+        {
+          "chapter": 3,
+          "title": "Micronutrients",
+          "topics": {
+            "vitamins": [
+              "Vitamin A",
+              "Vitamin B1 (Thiamine)",
+              "Vitamin B2 (Riboflavin)",
+              "Vitamin B3 (Niacin)",
+              "Vitamin B6 (Pyridoxine)",
+              "Vitamin B12 (Cobalamin)",
+              "Vitamin C",
+              "Vitamin D",
+              "Vitamin E",
+              "Vitamin K"
+            ],
+            "minerals": [
+              "Calcium",
+              "Magnesium",
+              "Iron",
+              "Zinc",
+              "Selenium"
+            ]
+          }
+        },
+        {
+          "chapter": 4,
+          "title": "Water & Hydration",
+          "topics": [
+            "Functions of Body Water",
+            "Water Balance: Intake vs Output",
+            "Fluid Intake Recommendations",
+            "Hydration Strategies"
+          ]
+        },
+        {
+          "chapter": 5,
+          "title": "Endocrine System",
+          "topics": [
+            "Hormones Based on Chemical Composition",
+            "Steroid Hormones",
+            "Sex Hormones",
+            "Hormones of Gonads",
+            "Gastrointestinal Neurotransmitters"
+          ]
+        },
+        {
+          "chapter": 6,
+          "title": "Metabolic Disorders",
+          "topics": [
+            "Osteomalacia",
+            "Osteoporosis",
+            "Atherosclerosis",
+            "Menopausal Health",
+            "Hypothyroidism",
+            "Diabetes Mellitus",
+            "Diabetes Management",
+            "Gout & High Uric Acid"
+          ]
+        },
+        {
+          "chapter": 7,
+          "title": "Lipogenesis, Lipolysis, Obesity & Fat Loss",
+          "topics": [
+            "Body Composition and Health",
+            "Feeding Regulation and Adiposity",
+            "Fat Distribution and Metabolic Syndrome",
+            "Calorie Intake and Weight Regulation",
+            "Causes of Obesity",
+            "Fat Loss Diet Planning",
+            "Weight Management Approaches"
+          ]
+        },
+        {
+          "chapter": 8,
+          "title": "Bioenergetics, Exercise & Muscle Gain Diet",
+          "topics": [
+            "ATP and Energy Systems",
+            "Fatigue and Lactate Physiology",
+            "Exercise Performance",
+            "EPOC (Excess Post-Exercise Oxygen Consumption)",
+            "Hypertrophy and Muscle Growth",
+            "Fat Loss Mechanisms",
+            "Fasted vs Fed-State Training",
+            "Free Radicals and Antioxidants",
+            "Nutrient-Related Fatigue",
+            "Exercise Nutrition"
+          ]
+        },
+        {
+          "chapter": 9,
+          "title": "Advance Nutrition & Sports Supplements",
+          "topics": [
+            "History of Dietary Supplements",
+            "Whey Protein",
+            "Whey Isolate",
+            "Casein Protein",
+            "Glycomacropeptides",
+            "L-Cysteine & Glutathione",
+            "Branched Chain Amino Acids (BCAAs)",
+            "Supplement Science",
+            "Resistance Exercise Nutrition"
+          ]
+        }
+      ],
+      "careerOpportunities": [
+        "Nutrition Specialist",
+        "Sports Nutrition Consultant",
+        "Health Coach",
+        "Wellness Consultant",
+        "Weight Management Expert",
+        "Supplement Advisor",
+        "Fitness Nutrition Coach"
+      ],
+      "certification": "Advance Nutrition Specialist Certification"
+    }
+  ]
+}
